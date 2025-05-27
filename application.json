@@ -20,6 +20,22 @@
     {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "all",
+      "isDefault": false
+    },
+    {
+      "id": "selected",
+      "isDefault": false
+    },
+    {
+      "id": "rw",
+      "isDefault": false
+    },
+    {
+      "id": "Setup",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
